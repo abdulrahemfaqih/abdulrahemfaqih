@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahemfaqih&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahemfaqih" /> </p>
 
-- 🌱 I’m currently learning **PHP (Laravel) and Javascript** (React)
-
 - 👀 I’m interested in **Frontend and backend**
 
 - 📫 How to reach me **faqih3935@gmail.com**
