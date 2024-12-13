@@ -9,7 +9,7 @@
 ## About Me :
 :computer: Hello, I'm a student majoring in Informatics Engineering at <a href='https://www.trunojoyo.ac.id/' target='_blank'>Universitas Trunojoyo Madura</a>. I am currently in my 5th semester, driven by a passion for continuous learning and innovation in the field of technology.
 
-- :computer I’m currently a student majoring in Informatics Engineering, focusing on front-end and back-end development for web applications and machine learning.
+- :computer: I’m currently a student majoring in Informatics Engineering, focusing on front-end and back-end development for web applications and machine learning.
 - :globe_with_meridians: Visit my <a href='#' target='blank'>portfolio website</a> (coming soon) to learn more about me.
 - :email: How to reach me: &nbsp; <a href="linkedin.com/in/abdul-rahem-faqih-ab98072b6"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
