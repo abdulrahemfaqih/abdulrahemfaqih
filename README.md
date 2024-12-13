@@ -8,7 +8,7 @@
 
 ## About Me :
 <!-- :computer: Hello, I'm Richie Zhou. Currently, I'm pursuing my master's in Computer Science at <a href="https://www.cs.columbia.edu/" target="blank">Columbia University</a>. Previously, I earned my bachelor's degree in Computer Science & Data Science from the <a href="https://cdis.wisc.edu/" target="blank">University of Wisconsin-Madison</a>. -->
-:computer: Hello, I'm a student majoring in Informatics Engineering at <a href='https://www.trunojoyo.ac.id/' target='blank'>Universitas Trunojoyo Madura</a>. I am currently in my 5th semester, driven by a passion for continuous learning and innovation in the field of technology.
+:computer: Hello, I'm a student majoring in Informatics Engineering at <a href='https://www.trunojoyo.ac.id/' target='_blank'>Universitas Trunojoyo Madura</a>. I am currently in my 5th semester, driven by a passion for continuous learning and innovation in the field of technology.
 
 - :computer I’m currently a student majoring in Informatics Engineering, focusing on front-end and back-end development for web applications and machine learning.
 - :globe_with_meridians: Visit my <a href='#' target='blank'>portfolio website</a> (coming soon) to learn more about me.
