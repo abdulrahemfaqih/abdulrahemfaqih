@@ -1,15 +1,74 @@
-<h1 align="center">Hi 👋, I'm Abdul Rahem Faqih</h1>
-<h3 align="center">Saya Adalah Seorang Mahasiswa Teknik Informatika yang lagi belajar menjadi Fullstack Web Developer</h3>
-<img align="right" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f" alt="" >
+# Hello :wave:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahemfaqih&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahemfaqih" /> </p>
+![Status](https://img.shields.io/badge/status-up-brightgreen) 
+![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) 
+![Visitor](https://komarev.com/ghpvc/?username=abdulrahemfaqih&color=c770f0)
 
-- 👀 I’m interested in **Frontend and backend**
+<img align='right' src='https://octodex.github.com/images/codercat.jpg' width='200'>
 
-- 📫 How to reach me **faqih3935@gmail.com**
+## About Me :
+<!-- :computer: Hello, I'm Richie Zhou. Currently, I'm pursuing my master's in Computer Science at <a href="https://www.cs.columbia.edu/" target="blank">Columbia University</a>. Previously, I earned my bachelor's degree in Computer Science & Data Science from the <a href="https://cdis.wisc.edu/" target="blank">University of Wisconsin-Madison</a>. -->
+:computer: Hello, I'm a student majoring in Informatics Engineering at <a href='https://www.trunojoyo.ac.id/' target='blank'>Universitas Trunojoyo Madura</a>. I am currently in my 5th semester, driven by a passion for continuous learning and innovation in the field of technology.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/rhmfaqih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rhmfaqih" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/abdulrahemfaqih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abdulrahemfaqih" height="30" width="40" /></a>
+- :compuster I’m currently a student majoring in Informatics Engineering, focusing on front-end and back-end development for web applications and machine learning.
+- :globe_with_meridians: Visit my <a href='#' target='blank'>portfolio website</a> (coming soon) to learn more about me.
+- :email: How to reach me: &nbsp; <a href="linkedin.com/in/abdul-rahem-faqih-ab98072b6"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+## 🛠 &nbsp; Language and Tools:
+
+### &nbsp; Programming languages:
+<p> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;  
+    <img src="https://github.com/arunike/arunike.github.io/blob/main/src/assets/imgs/techstack/sql.png" title="SQL" alt="sql" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/tree/master/icons/php" title="PHP" alt="php" width="40" height="40"/>&nbsp;
 </p>
+
+### &nbsp; Web Technologies
+<p>
+    
+
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="html" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="css" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="tailwind" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/livewire/livewire-original.svg" title="Livewire" alt="livewire" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"  title="Jquery" alt="jquery" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/alpinejs/alpinejs-original.svg"  title="Alpine JS" alt="alpine js" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="Boostrap" alt="boostrap" width="40" height="40"/>&nbsp;
+</p>
+
+### &nbsp; Frameworks
+<p>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="react" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="laravel" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" title="Codeigniter" alt="codeigniter" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg" title="Astro" alt="Astro" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/tree/master/icons/flask" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+   
+</p>
+
+### &nbsp; Databases:
+<p>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="Mysql" alt="mysql" width="40" height="40"/>&nbsp;
+</p>
+
+### &nbsp; Tools:
+<p>
+    <img src="https://github.com/arunike/arunike.github.io/blob/main/src/assets/imgs/techstack/latex.png" title="LaTex" alt="latex" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="docker" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/tree/master/icons/postman" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/tree/master/icons/jupyter" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/tree/master/icons/figma" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/tree/master/icons/git" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/tree/master/icons/jira" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/tree/master/icons/jira" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
+
+</p>
+
+
+## :fire: &nbsp; My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahemfaqih&layout=compact&langs_count=8&hide=assembly,makefile,perl,m4,lua,dtrace,shell,html)](https://github.com/anuraghazra/github-readme-stats)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=abdulrahemfaqih&show_icons=true)
