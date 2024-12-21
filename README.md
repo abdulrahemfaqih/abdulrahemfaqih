@@ -11,7 +11,7 @@
 
 - :computer: I’m currently a student majoring in Informatics Engineering, focusing on front-end and back-end development for web applications and machine learning.
 - :globe_with_meridians: Visit my <a href='https://abdulrahemfaqih.vercel.app/' target='_blank'>portfolio website</a> (coming soon) to learn more about me.
-- :email: How to reach me: &nbsp; <a href="linkedin.com/in/abdul-rahem-faqih-ab98072b6"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+- :email: How to reach me: &nbsp; <a href="https://www.linkedin.com/in/abdul-rahem-faqih-ab98072b6/" target='_blank'><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## 🛠 &nbsp; Language and Tools:
 
