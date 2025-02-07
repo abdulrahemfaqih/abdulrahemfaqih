@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a student majoring in Informatics Engineering at [Universitas Trunojoyo Madura](https://www.trunojoyo.ac.id/). Currently in my 5th semester, I am passionate about continuous learning and innovation in technology.
+I'm a student majoring in Informatics Engineering at [Universitas Trunojoyo Madura](https://www.trunojoyo.ac.id/). Currently in my 6th semester, I am passionate about continuous learning and innovation in technology.
 
 - 🌐 Visit my [portfolio website](https://abdulrahemfaqih.works/)  to learn more about me.
 
