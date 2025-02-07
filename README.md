@@ -33,7 +33,7 @@ I'm a student majoring in Informatics Engineering at [Universitas Trunojoyo Madu
 <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="react" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="laravel" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" title="Codeigniter" alt="codeigniter" width="40" height="40"/>&nbsp;
 </p>
 
