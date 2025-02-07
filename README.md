@@ -3,7 +3,6 @@
 ![Status](https://img.shields.io/badge/status-up-brightgreen)
 ![Visitor](https://komarev.com/ghpvc/?username=abdulrahemfaqih&color=c770f0)
 
-<img align='right' src='https://octodex.github.com/images/codercat.jpg' width='200'>
 
 ## About Me
 
