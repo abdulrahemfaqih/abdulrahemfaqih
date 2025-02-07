@@ -9,7 +9,6 @@
 I'm a student majoring in Informatics Engineering at [Universitas Trunojoyo Madura](https://www.trunojoyo.ac.id/). Currently in my 5th semester, I am passionate about continuous learning and innovation in technology.
 
 - 🌐 Visit my [portfolio website](https://abdulrahemfaqih.works/)  to learn more about me.
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-rahem-faqih-ab98072b6/)
 
 ## Skills
 
