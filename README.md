@@ -46,10 +46,8 @@ I'm a student majoring in Informatics Engineering at [Universitas Trunojoyo Madu
 </p>
 
 ## GitHub Stats
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahemfaqih&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=abdulrahemfaqih&show_icons=true)
-
+## GitHub Stats
+<div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahemfaqih&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdulrahemfaqih&show_icons=true"/>
 </div>
