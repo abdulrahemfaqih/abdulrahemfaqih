@@ -28,6 +28,7 @@ I'm a student majoring in Informatics Engineering at [Universitas Trunojoyo Madu
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="css" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="tailwind" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="Boostrap" alt="boostrap" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"  title="Boostrap" alt="boostrap" width="40" height="40"/>&nbsp;
 </p>
 
 ### Frameworks
