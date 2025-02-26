@@ -10,7 +10,7 @@ I'm a student majoring in Informatics Engineering at [Universitas Trunojoyo Madu
 
 - 🌐 Visit my [portfolio website](https://abdulrahemfaqih.works/)  to learn more about me.
 
-## 🚀 Skills
+## Skills
 
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
 
