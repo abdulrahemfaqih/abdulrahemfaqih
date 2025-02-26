@@ -10,63 +10,56 @@ I'm a student majoring in Informatics Engineering at [Universitas Trunojoyo Madu
 
 - 🌐 Visit my [portfolio website](https://abdulrahemfaqih.works/)  to learn more about me.
 
-## Skills
+## 🚀 Skills
 
-<table>
-  <tr>
-    <td>
-      <h3>Programming Languages</h3>
-      <p>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>
-        <img src="https://github.com/arunike/arunike.github.io/blob/main/src/assets/imgs/techstack/sql.png" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
-      </p>
-    </td>
-    <td>
-      <h3>Web Technologies</h3>
-      <p>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40" height="40"/>
-      </p>
-    </td>
-  </tr>
+<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
 
-  <tr>
-    <td>
-      <h3>Frameworks</h3>
-      <p>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" width="40" height="40"/>
-      </p>
-    </td>
-    <td>
-      <h3>Database</h3>
-      <p>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
-      </p>
-    </td>
-  </tr>
+  <!-- Programming Languages Card -->
+  <div style="border-radius: 10px; border: 1px solid #ddd; padding: 10px; width: 280px; text-align: center;">
+    <h3>Programming Languages</h3>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="40"/>
+  </div>
 
-  <tr>
-    <td colspan="2">
-      <h3>Tools</h3>
-      <p align="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40"/>
-      </p>
-    </td>
-  </tr>
-</table>
+  <!-- Web Technologies Card -->
+  <div style="border-radius: 10px; border: 1px solid #ddd; padding: 10px; width: 280px; text-align: center;">
+    <h3>Web Technologies</h3>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40"/>
+  </div>
+
+  <!-- Frameworks Card -->
+  <div style="border-radius: 10px; border: 1px solid #ddd; padding: 10px; width: 280px; text-align: center;">
+    <h3>Frameworks</h3>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" width="40"/>
+  </div>
+
+  <!-- Database Card -->
+  <div style="border-radius: 10px; border: 1px solid #ddd; padding: 10px; width: 280px; text-align: center;">
+    <h3>Database</h3>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40"/>
+  </div>
+
+  <!-- Tools Card -->
+  <div style="border-radius: 10px; border: 1px solid #ddd; padding: 10px; width: 280px; text-align: center;">
+    <h3>Tools</h3>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40"/>
+  </div>
+
+</div>
+
 
 
 ## GitHub Stats
