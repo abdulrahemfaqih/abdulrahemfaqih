@@ -64,6 +64,6 @@ I'm a student majoring in Informatics Engineering at [Universitas Trunojoyo Madu
 
 ## GitHub Stats
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahemfaqih&langs_count=12"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahemfaqih&layout=compact&langs_count=12"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdulrahemfaqih&show_icons=true"/>
 </div>
