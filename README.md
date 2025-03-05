@@ -10,55 +10,38 @@ I'm a student majoring in Informatics Engineering at [Universitas Trunojoyo Madu
 
 - 🌐 Visit my [portfolio website](https://abdulrahemfaqih.works/)  to learn more about me.
 
-## Skills
+## Tech Stack & Tools
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
-<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+  <!-- Web Technologies -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 
-  <!-- Programming Languages Card -->
-  <div style="border-radius: 10px; border: 1px solid #ddd; padding: 10px; width: 280px; text-align: center;">
-    <h3>Programming Languages</h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="30"/>
-  </div>
+  <!-- Frameworks & Libraries -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 
-  <!-- Web Technologies Card -->
-  <div style="border-radius: 10px; border: 1px solid #ddd; padding: 10px; width: 280px; text-align: center;">
-    <h3>Web Technologies</h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="30"/>
-  </div>
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-  <!-- Frameworks Card -->
-  <div style="border-radius: 10px; border: 1px solid #ddd; padding: 10px; width: 280px; text-align: center;">
-    <h3>Frameworks</h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" width="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" width="30"/>
-  </div>
+  <!-- DevOps & Tools -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
 
-  <!-- Database Card -->
-  <div style="border-radius: 10px; border: 1px solid #ddd; padding: 10px; width: 280px; text-align: center;">
-    <h3>Database</h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="30"/>
-  </div>
-
-  <!-- Tools Card -->
-  <div style="border-radius: 10px; border: 1px solid #ddd; padding: 10px; width: 280px; text-align: center;">
-    <h3>Tools</h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="30"/>
-  </div>
-
-</div>
 
 
 
