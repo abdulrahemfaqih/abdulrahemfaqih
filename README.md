@@ -72,5 +72,5 @@ I'm a student majoring in Informatics Engineering at [Universitas Trunojoyo Madu
 
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdulrahemfaqih&layout=compact&langs_count=12"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abdulrahemfaqih&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abdulrahemfaqih&show_icons=true&count_private=true"/>
 </div>
